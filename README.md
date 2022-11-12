@@ -7,6 +7,7 @@
 - 💬 how to contact me: 
 	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Matrix: @xtvlw:matrix.org
 	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Telegram: @xtvlw
+	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Discord: Kim_Frost#4955
 	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> [LinkedIn](https://www.linkedin.com/in/bernardo-cardoso-pereira/)
 - <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/work.gif?raw=true" /> Git
 	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> <a href="#">GitHub</a>
