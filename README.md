@@ -1,17 +1,17 @@
 # Hi! What's up? <img style="width: 50px;"  src="https://github.com/xtvlw/xtvlw/blob/main/imgs/Hi.png?raw=true" />
-<img src="https://media4.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47q0jrvhhj1isytvlhfp5xebtyczs07f80nawi8iij&rid=giphy.gif&ct=g" style="width:250px;" align="right"/>
+<img src="./imgs/gif_main.gif" width="250" align="right"/>
 
-- <img style="width: 30px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/love_icon.gif?raw=true" />  I'm a computer lover
+- <img width="30" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/love_icon.gif?raw=true" />  I'm a computer lover
 - 📚 I'm learning React.JS and others technologies
 - I speak 🇧🇷 Portuguese and 🇬🇧 English
 - 💬 how to contact me: 
-	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Matrix: @xtvlw:matrix.org
-	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Telegram: @xtvlw
-	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Discord: Kim_Frost#4955
+	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Matrix: @xtvlw:matrix.org
+	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Telegram: @xtvlw
+	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Discord: Kim_Frost#4955
 
-- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/work.gif?raw=true" /> Git
-	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> <a href="#">GitHub</a>
-	- <img style="width: 20px;" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> [GitLab](https://gitlab.com/NightShine)
+- <img width="20" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/work.gif?raw=true" /> Git
+	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> <a href="#">GitHub</a>
+	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> [GitLab](https://gitlab.com/NightShine)
 	
 <br/>
 <details>
@@ -33,17 +33,17 @@
 	<tr>
 		<td align="center">
 			<!--CSS3-->
-			<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/css3-plain.svg" />
+			<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/css3-plain.svg" />
 			<br> CSS3
 		</td>
 		<td align="center">
 			<!--HTML5-->
-			<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/html5-plain.svg" />
+			<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/html5-plain.svg" />
 			<br> HTML5
 		</td>
 		<td align="center">
 			<!--JavaScript-->
-			<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/javascript-plain.svg" />
+			<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/javascript-plain.svg" />
 			<br> JavaScript
 		</td>
 		<td align="center">
@@ -68,7 +68,7 @@
 			<br> Python
 		</td>
 		<td align="center">
-			<!--Ubuntu-->
+			<!--Linux-->
 			<a href="https://ubuntu.com/">
 				<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/ubuntu-plain.svg" />
 			</a>
@@ -90,7 +90,7 @@
 	<tr>
 		<td align="center">
 			<!--C-->
-			<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/0f451f8f9b15703359cb62c6252e573bbd93c820/icons/c-plain.svg" />
+			<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/0f451f8f9b15703359cb62c6252e573bbd93c820/icons/c-plain.svg" />
 			<br> C
 		</td>
 		<td align="center">
@@ -111,7 +111,7 @@
 				<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/0f451f8f9b15703359cb62c6252e573bbd93c820/icons/bootstrap-plain.svg" />
 			</a>
 			<br> Bootstrap
-		</td align="center">
+		</td>
 		<td align="center">
 			<!--Inkscape-->
 			<a href="https://inkscape.org/">
