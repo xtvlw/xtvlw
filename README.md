@@ -1,8 +1,8 @@
-# Hi! What's up? <img style="width: 50px;"  src="https://github.com/xtvlw/xtvlw/blob/main/imgs/Hi.png?raw=true" />
+# Hi! What's up? <img width="50"  src="https://github.com/xtvlw/xtvlw/blob/main/imgs/Hi.png?raw=true" />
 <img src="./imgs/gif_main.gif" width="250" align="right"/>
 
 - <img width="30" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/love_icon.gif?raw=true" />  I'm a computer lover
-- 📚 I'm learning React.JS and others technologies
+- 📚 I'm learning web technologies
 - I speak 🇧🇷 Portuguese and 🇬🇧 English
 - 💬 how to contact me: 
 	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Matrix: @xtvlw:matrix.org
@@ -29,60 +29,62 @@
 
 ## technologies that I use
 
-<table align="center">
-	<tr>
-		<td align="center">
-			<!--CSS3-->
-			<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/css3-plain.svg" />
-			<br> CSS3
-		</td>
-		<td align="center">
-			<!--HTML5-->
-			<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/html5-plain.svg" />
-			<br> HTML5
-		</td>
-		<td align="center">
-			<!--JavaScript-->
-			<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/javascript-plain.svg" />
-			<br> JavaScript
-		</td>
-		<td align="center">
-			<!--React.JS-->
-			<a href="https://reactjs.org/">
-				<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/react-original.svg" />
-			</a>
-			<br> React.JS
-		</td align="center">
-		<td align="center">
-			<!--Node.JS-->
-			<a href="https://nodejs.org/en/">
-				<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/nodejs-plain.svg" />
-			</a>
-			<br> Node.JS
-			</td>
-		<td align="center">
-			<!--python-->
-			<a href="https://www.python.org/">
-				<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/python-original.svg" />
-			</a>
-			<br> Python
-		</td>
-		<td align="center">
-			<!--Linux-->
-			<a href="https://ubuntu.com/">
-				<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/ubuntu-plain.svg" />
-			</a>
-			<br> Ubuntu
-		</td>
-		<td align="center">
-			<!--Git-->
-			<a href="https://git-scm.com/">
-				<img style="width: 50px;" src="https://raw.githubusercontent.com/xtvlw/xtvlw/ecc9eefd1d1adfb9c49cd42241f48e6f2aaa784b/icons/git-plain.svg" />
-			</a>
-			<br> Git
-		</td>
-	<tr>
-</table>
+<div id="table" style="display: flex; flex-flow: wrap;">
+	<!--CSS3-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="https://raw.githubusercontent.com/xtvlw/xtvlw/76109c206c9f0355e03925d580c883beefbbde69/icons/css3-plain.svg" />
+		<br> 
+		CSS3
+	</div>
+	<!--HTML5-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/html5-plain.svg" />
+		<br> 
+		HTML5
+	</div>
+	<!--JavaScript-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/javascript-plain.svg" />
+		<br> 
+		JavaScript
+	</div>
+	<!--TypeScript-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/typescript-original.svg" />
+		<br> 
+		TypeScript
+	</div>
+	<!--React.JS-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/react-original.svg" />
+		<br> 
+		React.JS
+	</div>
+	<!--Node.JS-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/nodejs-plain.svg" />
+		<br> 
+		Node.JS
+	</div>
+	<!--python-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/python-original.svg" />
+		<br> 
+		Python
+	</div>
+	<!--Linux-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/ubuntu-plain.svg" />
+		<br> 
+		Ubuntu
+	</div>
+	<!--Git-->
+	<div style="border: solid #dddddd 1px ; padding: 10px;" align='center' class='item'>
+		<img width="50" src="./icons/git-plain.svg" />
+		<br> 
+		Git
+	</div>
+</div>
 
 ## technologies that I'm learning
 
