@@ -5,24 +5,27 @@
 - 📚 I'm learning web technologies
 - I speak 🇧🇷 Portuguese and 🇬🇧 English
 - 💬 how to contact me: 
-	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Matrix: @xtvlw:matrix.org
-	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Telegram: @xtvlw
-	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> Discord: Kim_Frost#4955
+	- <img width="15" src="./imgs/check.gif" /> Matrix: @xtvlw:matrix.org
+	- <img width="15" src="./imgs/check.gif" /> Telegram: @xtvlw
+	- <img width="15" src="./imgs/check.gif" /> Discord: Kim_Frost#4955
 
-- <img width="20" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/work.gif?raw=true" /> Git
-	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> <a href="#">GitHub</a>
-	- <img width="15" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/check.gif?raw=true" /> [GitLab](https://gitlab.com/NightShine)
+- <img width="20" src="./imgs/work.gif" /> Git
+	- <img width="15" src="./imgs/check.gif" /> <a href="#">GitHub</a>
+	- <img width="15" src="./imgs/check.gif" /> [GitLab](https://gitlab.com/NightShine)
 	
 <br/>
 <details>
 <summary>👤 About me</summary>
-	<div>
-		<ul>
-			 <li> I'm someone who always like to learn and keep improving my knowledge about technologies.
-			 <li> love programming. I learn technologies with a look at web development, but I'm also interested in desktop and games development.
-			 <li> I'm also learning design, mostly using Inkscape but sometimes using blender to make some 3D models.
-			 <li> I love open source projects, and one day i'll be part of one!
-		 </ul>
+	<div style="font-family: Helvetica Neue;">
+		<p> 
+			👤 I'm someone who always like to learn and keep improving my knowledge about technologies.
+		</p>
+		<p> 
+			🎨 I'm also learning design, mostly using Inkscape and Gimp but sometimes using blender to make some 3D models.
+		</p>
+		<p> 
+			<img width="15" src="./icons/osi.svg"/> I love open source projects, and one day i'll be part of one! 
+		</p>
 	</div>
 </details>
 <br/>
