@@ -1,5 +1,5 @@
 # Hi! What's up? <img width="50"  src="https://github.com/xtvlw/xtvlw/blob/main/imgs/Hi.png?raw=true" />
-<img src="./imgs/gif_main.gif" width="250" align="right"/>
+<img style="border-radius: 15px; box-shadow: 1px 2px 6px gray" src="./imgs/gif_main.gif" width="250" align="right"/>
 
 - <img width="30" src="https://github.com/xtvlw/xtvlw/blob/main/imgs/love_icon.gif?raw=true" />  I'm a computer lover
 - 📚 I'm learning web technologies
